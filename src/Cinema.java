@@ -80,7 +80,7 @@ public class Cinema {
             if (cinema.length / 2 >= rowNumber)
                 System.out.println("Ticket price: $10");
             else
-                System.out.println("Ticket price: $8");
+                System.out.println("Ticket price: $8"); //
         }
     }
 }
