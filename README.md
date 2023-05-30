@@ -1,1 +1,1 @@
-# cinemaRoomManager 0.3 version
+# cinemaRoomManager on the working stage
